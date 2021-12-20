@@ -1,1 +1,6 @@
-# Music_App_UI
+# Music_App_UI![Ekran Alıntısı](https://user-images.githubusercontent.com/54988806/146771441-e3500335-9ae5-4b9e-9ab7-3658e8b77f29.JPG)
+![Screenshot_1639953580](https://user-images.githubusercontent.com/54988806/146771454-07663d1d-11a1-4166-8214-96af10a3d298.png)
+![Screenshot_1639953587](https://user-images.githubusercontent.com/54988806/146771475-75429f79-8e8c-48f6-897a-ee194d7b9f99.png)
+![Screenshot_1639953590](https://user-images.githubusercontent.com/54988806/146771555-9f9478e2-8584-4600-8f71-e71caf9c1a21.png)
+![Screenshot_1639953594](https://user-images.githubusercontent.com/54988806/146771565-e6cd42fd-9cf0-4fc0-9263-08e710bbafde.png)
+![Screenshot_1639953601](https://user-images.githubusercontent.com/54988806/146771858-5c55efd3-50bd-4858-8706-561fa6eb45c6.png)
